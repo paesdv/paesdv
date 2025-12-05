@@ -61,13 +61,6 @@
 
 ---
 
-## 📊 **Most Used Languages**
-> *Este gráfico será gerado automaticamente pelo GitHub com base nos seus repositórios.*
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paesdv&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 **Contato**
 - ✉️ Email: **paesm191@gmail.com**
 - 🌐 GitHub: **github.com/paesdv**
