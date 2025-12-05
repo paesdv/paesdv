@@ -15,7 +15,7 @@
 - 🔌 Integração entre front-end e back-end em sistemas web profissionais  
 - 🧱 Experiência com **WordPress e Elementor**, criando sites completos e otimizados  
 - 🔥 Conhecimento **básico de Java** e fundamentos da orientação a objetos  
-- 🐳 Experiência com **Git, Docker, Docker Swarm e Kubernetes**  
+- 🐳 Experiência com **Git, Docker, Docker Swarm**  
 - 🎨 Forte background em design, garantindo interfaces modernas e intuitivas  
 - 🎯 Sempre em evolução, estudando ADS (2024–2026) e aprimorando técnicas de desenvolvimento  
 
