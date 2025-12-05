@@ -1,6 +1,6 @@
 <h1 align="left">Hi There! 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paesdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paesdv)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paesdv)
 [![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paesm191@gmail.com)
 
@@ -64,7 +64,7 @@
 ## 📫 **Contato**
 - ✉️ Email: **paesm191@gmail.com**
 - 🌐 GitHub: **github.com/paesdv**
-- 💼 LinkedIn: **linkedin.com/in/paesdesgn**
+- 💼 LinkedIn: **linkedin.com/in/paesdv**
 
 ---
 
