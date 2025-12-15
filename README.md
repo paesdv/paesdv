@@ -6,36 +6,38 @@
 
 👨‍💻 My name is Matheus Paes
 
-(Web Developer | Backend-focused | PHP | Laravel | JavaScript | Java)
+(Front-end Developer | Web Developer | PHP | Laravel | JavaScript | HTML | CSS | WordPress | Java)
 
-💻 Web developer with hands-on experience in real-world projects, working across front-end and back-end
+💻 Web Developer with hands-on experience in production projects, working on front-end and back-end layers
 
-🧠 Backend development using PHP, Laravel and Symfony, following MVC and REST principles
+💡 Development of responsive and accessible user interfaces using HTML, CSS and JavaScript
 
-🔧 Implementation of CRUDs, business rules, validations and error handling
+🔧 Implementation and maintenance of features using PHP, Laravel and Symfony
 
-🔌 Integration between front-end and back-end, APIs and internal systems
+🔌 Integration between front-end and back-end layers in web applications
 
-🧱 Experience with WordPress (customization and maintenance)
+🧱 Experience with WordPress and Elementor, including customization and optimization
 
-🔥 Basic knowledge of Java and Object-Oriented Programming
+🔥 Basic knowledge of Java and Object-Oriented Programming (OOP)
 
-🐳 Experience with Git, Docker and containerized development environments
+🐳 Experience with Git, Docker and Docker Swarm
 
-🎯 ADS student (2024–2026), focused on continuous learning and clean code
+🎨 Strong background in UI design, supporting usability and interface quality
+
+🎯 Continuously improving, studying ADS (2024–2026) and advancing development skills
 
 💼 Main Developer Skills
 Frontend
 
-HTML
-
-CSS
-
 JavaScript
+
+WordPress / Elementor
 
 Backend
 
 PHP
+
+Java (Basic)
 
 Laravel
 
@@ -49,20 +51,34 @@ Git
 
 Docker
 
+Docker Swarm
+
+Adobe Photoshop / Illustrator
+
 🖥️ Developer Experience (Resumo)
-🧑‍💻 J2K Sistemas — Junior Web Developer
+🧑‍💻 J2K Sistemas — Junior Web Developer / Web Designer
 
 2024 – 2025
 
-Development of web systems and internal tools using Laravel (PHP)
+Creation of modern layouts and UI components for websites and systems
 
-Implementation of CRUDs, validations and database relationships
+Front-end development using HTML, CSS and JavaScript
 
-Front-end development with HTML, CSS and JavaScript
+Implementation of features using PHP and Laravel (basic/intermediate level)
 
-API integration and internal system improvements
+Back-end maintenance and layer integration
 
-Collaborative work with technical and product teams
+Collaborative work with technical and UX teams
+
+🎨 Additional experience as Designer
+
+(Kept only as support for the technical profile)
+
+Development of visual assets and digital materials
+
+Production of mockups and interface layouts
+
+Visual support for communication and branding
 
 📫 Contato
 
@@ -74,4 +90,4 @@ Collaborative work with technical and product teams
 
 🚀 Always building, always learning.
 
-Se quiser, posso deixar ainda mais backend, mais Java, ou mais ATS-friendly para recrutadores técnicos sem aumentar uma linha.
+Se quiser, posso fazer uma versão alternativa focada em backend ou Java mantendo esse mesmo formato.
