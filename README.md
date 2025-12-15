@@ -39,8 +39,7 @@
 ### **Ferramentas / DevOps**
 - Git  
 - Docker  
-- Docker Swarm  
-- Adobe Photoshop / Illustrator  
+- Docker Swarm
 
 ---
 
