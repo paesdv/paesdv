@@ -7,50 +7,57 @@
 ---
 
 ## 👨‍💻 **My name is Matheus Paes**
-**(Front-end Developer | Web Designer | PHP | Laravel | JavaScript | HTML | CSS | WordPress | Java)**
+**(Java Backend Developer | Spring Boot | APIs REST | PostgreSQL | PHP/Laravel Background)**
 
-- 💻 **Web Developer with practical experience in production environments**, working on front-end and back-end  
-- 💡 Development of responsive and functional interfaces using **HTML, CSS and JavaScript**  
-- 🔧 Implementation and maintenance of features using **PHP, Laravel and Symfony**  
-- 🔌 Integration between front-end and back-end layers in web systems  
-- 🧱 Experience with **WordPress and Elementor**, including customization and performance optimization  
-- 🔥 Basic knowledge of **Java and Object-Oriented Programming (OOP)**  
-- 🐳 Experience with **Git, Docker and Docker Swarm**  
-- 🎨 Strong background in design, contributing to **usability and UI consistency**  
-- 🎯 Always evolving, studying ADS (2024–2026) and improving development skills  
+- 💻 **Java Backend Developer in formation**, focused on building RESTful APIs and backend services  
+- ☕ Development using **Java and Object-Oriented Programming (OOP)**  
+- 🌱 Experience with **Spring Boot**, **Spring MVC**, **Spring Data JPA** and **Spring Security**  
+- 🔌 Creation and consumption of **REST APIs**, applying DTOs and layered architecture  
+- 🗄️ Persistence with **PostgreSQL** using **Hibernate / JPA**  
+- 🧪 Unit testing with **JUnit and Mockito**  
+- 🔄 Version control with **Git and GitHub**  
+- 🐳 Development environments using **Docker**  
+- 🎯 Always evolving, studying **Analysis and Systems Development (2024–2026)** and improving backend skills  
 
 ---
 
 ## 💼 **Main Developer Skills**
 
-### **Frontend**
-- HTML  
-- CSS  
-- JavaScript  
-- WordPress / Elementor  
+### **Backend (Java)**
+- Java  
+- Spring Boot  
+- Spring MVC  
+- Spring Data JPA  
+- Hibernate  
+- Spring Security  
+- REST APIs  
+- DTO  
 
-### **Backend**
-- PHP
-- Java Básico
-- Laravel  
-- Symfony  
-- Java (básico)  
+### **Testing**
+- JUnit  
+- Mockito  
+
+### **Database**
+- PostgreSQL  
+- MySQL  
 
 ### **Ferramentas / DevOps**
 - Git  
+- GitHub  
 - Docker  
-- Docker Swarm
+- Jenkins  
 
 ---
 
 ## 🖥️ **Developer Experience (Resumo)**
-### 🧑‍💻 **J2K Sistemas — Desenvolvedor Júnior / Web Designer**
+### 🧑‍💻 **J2K Sistemas — Desenvolvedor Web**
 **2024 – 2025**  
-- Creation of layouts and user interfaces for websites and internal systems  
-- Front-end development with **HTML, CSS and JavaScript**  
-- Implementation of features using **PHP and Laravel (basic/intermediate)**  
-- Back-end adjustments and system layer integration  
-- Collaborative work with technical and UX teams  
+- Backend development with **PHP and Laravel**, applying MVC architecture  
+- Implementation of **REST APIs** and CRUD operations with relational databases  
+- Data modeling, validations and error handling  
+- API documentation using **Swagger / OpenAPI**  
+- Maintenance and evolution of existing systems  
+- Collaborative work with technical and product teams  
 
 ### 🎨 Experiências adicionais como Designer
 *(Mantidas apenas como suporte ao perfil técnico)*  
