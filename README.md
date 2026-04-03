@@ -1,77 +1,91 @@
-<h1 align="left">Hi There! 👋</h1>
+<h1 align="center">Hi, I'm Matheus Paes 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paesdv)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paesdv)
-[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paesm191@gmail.com)
+<p align="center">
+  <b>Java Backend Developer | Spring Boot | REST APIs | AWS | Docker</b>
+</p>
 
----
-
-## 👨‍💻 **My name is Matheus Paes**
-**(Java Backend Developer | Spring Boot | APIs REST | PostgreSQL | PHP/Laravel Background)**
-
-- 💻 **Java Backend Developer in formation**, focused on building RESTful APIs and backend services  
-- ☕ Development using **Java and Object-Oriented Programming (OOP)**  
-- 🌱 Experience with **Spring Boot**, **Spring MVC**, **Spring Data JPA** and **Spring Security**  
-- 🔌 Creation and consumption of **REST APIs**, applying DTOs and layered architecture  
-- 🗄️ Persistence with **PostgreSQL** using **Hibernate / JPA**  
-- 🧪 Unit testing with **JUnit and Mockito**  
-- 🔄 Version control with **Git and GitHub**  
-- 🐳 Development environments using **Docker**  
-- 🎯 Always evolving, studying **Analysis and Systems Development (2024–2026)** and improving backend skills  
+<p align="center">
+  <a href="https://linkedin.com/in/paesdv">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/paesdv">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:paesm191@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 💼 **Main Developer Skills**
+## 👨‍💻 About Me
 
-### **Backend (Java)**
+- 💻 Junior Backend Developer focused on **Java and Spring Boot**
+- 🚀 Building scalable and secure **REST APIs**
+- 🌱 Currently improving skills in **Java ecosystem and AWS**
+- 🧠 Experience with **PHP (Laravel)** and backend development
+- 🎯 Focused on clean code, best practices, and continuous evolution
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧠 Backend
 - Java  
 - Spring Boot  
-- Spring MVC  
+- Spring Security  
 - Spring Data JPA  
 - Hibernate  
-- Spring Security  
 - REST APIs  
-- DTO  
 
-### **Testing**
+### 🗄️ Database
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+
+### 🧪 Testing
 - JUnit  
 - Mockito  
 
-### **Database**
-- PostgreSQL  
-- MySQL  
-
-### **Ferramentas / DevOps**
-- Git  
-- GitHub  
+### ⚙️ DevOps & Tools
 - Docker  
+- Git & GitHub  
 - Jenkins  
+- Swagger / OpenAPI  
+- AWS (Basic/Intermediate)  
 
 ---
 
-## 🖥️ **Developer Experience (Resumo)**
-### 🧑‍💻 **J2K Sistemas — Desenvolvedor Web**
-**2024 – 2025**  
-- Backend development with **PHP and Laravel**, applying MVC architecture  
-- Implementation of **REST APIs** and CRUD operations with relational databases  
-- Data modeling, validations and error handling  
-- API documentation using **Swagger / OpenAPI**  
-- Maintenance and evolution of existing systems  
-- Collaborative work with technical and product teams  
+## 💼 Experience
 
-### 🎨 Experiências adicionais como Designer
-*(Mantidas apenas como suporte ao perfil técnico)*  
-- Development of digital assets and visual materials  
-- Creation of mockups and layouts  
-- Visual support for communication and branding  
+### 🧑‍💻 J2K Sistemas — Web Developer  
+📅 Dec 2024 – Sep 2025  
+
+- Developed and maintained web applications using **PHP, Laravel, and JavaScript**  
+- Built and documented **REST APIs** using **Swagger / OpenAPI**  
+- Implemented business rules, validations, and error handling  
+- Worked with relational databases (**MySQL and PostgreSQL**)  
+- Integrated systems and handled data processing between services  
+- Contributed to system improvements, maintenance, and stability  
 
 ---
 
-## 📫 **Contato**
+## 🚀 Goals
+
+- Transitioning fully to **Java Backend Development**
+- Building real-world applications using **Spring Boot**
+- Expanding knowledge in **Cloud (AWS)** and backend architecture  
+
+---
+
+## 📫 Contact
+
 - ✉️ Email: **paesm191@gmail.com**
-- 🌐 GitHub: **github.com/paesdv**
 - 💼 LinkedIn: **linkedin.com/in/paesdv**
+- 🌐 GitHub: **github.com/paesdv**
 
 ---
 
-## 🚀 **Always building, always learning.**
+<p align="center">
+  🚀 <b>Always building. Always learning.</b>
+</p>
